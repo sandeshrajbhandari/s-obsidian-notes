@@ -1,3 +1,5 @@
+ https://sandeshrajbhandari.github.io/s-obsidian-notes/
+ 
 # Publish your Obsidian Notes
 
 (MkDocs template)
